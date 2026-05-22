@@ -41,6 +41,12 @@
       "typedRoutes": true,
       "reactCompiler": true,
       "baseUrl": "/task-app/"
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "741ad3d0-ac8f-4691-9750-9547c1789ea9"
+      }
     }
   }
 }
